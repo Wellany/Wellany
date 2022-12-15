@@ -9,4 +9,4 @@ Wellany/Wellany is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![react](./react.png) ![HTML](./html.png)
+![react](./react.png), ![HTML](./html.png)
